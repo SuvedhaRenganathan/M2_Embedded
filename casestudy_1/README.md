@@ -21,6 +21,7 @@
 1.	Helps in home security systems to detect intruders.
 
 ##Pin Configuration of UM3561:
+
  ![image](https://user-images.githubusercontent.com/98879965/154840690-8cd420f8-7b0b-4b1b-bb1f-3ee903aff367.png)
 
 ##Block Diagram
