@@ -1,4 +1,4 @@
-## Burglar Alarm Circuit
+# Burglar Alarm Circuit
 
 ## Introduction:
  Burglar alarm system is an important part of home security systems. It an electronic device that emits a loud noise or other alert when someone attempts to gain unauthorized  entry to a building or other premise . They are also called security systems, alarm systems, intrusion detection system.
@@ -13,11 +13,11 @@
 •	Bread Board and wires
 
 ## Requirements:
-# High Level:
+## High Level:
 1.	This helps in detection of human body.
 2.	They produce high sound (like police siren, ambulance sound etc) which can make the people to know about the theft or any other suspicious movements of human.
 
-# Low Level:
+## Low Level:
 1.	Helps in home security systems to detect intruders.
 
 ## Pin Configuration of UM3561:
