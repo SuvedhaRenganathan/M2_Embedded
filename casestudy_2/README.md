@@ -8,7 +8,6 @@ When a visitor comes to the house, he searches for the doorbell switch and then 
 •	Buzzer
 •	Jumper cables
 
-
 ## High level Requirements:
   1.When a visitor presses a button the bell rings inside the building, alerting the occupant to the presence of the visitor.
 
@@ -17,5 +16,6 @@ When a visitor comes to the house, he searches for the doorbell switch and then 
 
 ## Circuit Diagram
 
-![image](https://user-images.githubusercontent.com/98879965/154853461-1491d217-0203-45ca-997b-6461e4166e19.png)
+![image](https://user-images.githubusercontent.com/98879965/154854744-fe251afc-e350-4455-a03a-901646030fb3.png)
+
 
