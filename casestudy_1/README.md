@@ -27,4 +27,6 @@ Pin Configuration of UM3561:
 Block Diagram
 ![image](https://user-images.githubusercontent.com/98879965/154840713-c6f2d7bd-abb2-4c86-b230-15dbc7adebc5.png)
 
-
+Application
+1. Commercial premises including shops, restaurants, hotels and offices.
+2. High-security areas such as banks, ATMs, lockers, etc.
