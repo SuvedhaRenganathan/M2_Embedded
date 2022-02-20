@@ -16,5 +16,6 @@ When a visitor comes to the house, he searches for the doorbell switch and then 
   1.Saves time for the person inside the house and the person waiting outside the house.
 
 ##Circuit Diagram
+
 ![image](https://user-images.githubusercontent.com/98879965/154853461-1491d217-0203-45ca-997b-6461e4166e19.png)
 
