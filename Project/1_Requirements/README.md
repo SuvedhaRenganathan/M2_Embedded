@@ -16,17 +16,23 @@ What  - Use to detect the alcohol consumption and display the results
 
 ## REQUIREMENTS
 ## High Level Requirements
-| ID |                    Description                                                    |
-| -- | -----------                                                                       |
-| HL1 | The system shall be able to detect the alcohol consumption by using the sensor   |
-| HL2 | There shall be a LCD display to present with the results                         |
-| HL3 | Buzzer shall ring if there is a detection of alcohol                             |
-| HL4 | A GSM module shall be connected to detect the vehicle and to find the location   |
+| ID |                    Description                                                       |
+| -- | -----------                                                                          |
+| HL1 | The system shall be able to detect the alcohol consumption by using the sensor      |
+| HL2 | There shall be a LCD display to present with the results                            |  
+| HL3 | Buzzer shall ring if there is a detection of alcohol                                |
+| HL4 | A GPS & GSM module shall be connected to detect the vehicle and to find the location|
 
-## Low Level Requirements
-| ID |                    Description                                                    |
-| -- | -----------                                                                       |
-| HL1 | The system shall be able to detect the alcohol consumption by using the sensor   |
-| HL2 | There shall be a LCD display to present with the results                         |
-| HL3 | Buzzer shall ring if there is a detection of alcohol                             |
-| HL4 | A GSM module shall be connected to detect the vehicle and to find the location   |
+## Low Level Requirements 
+| ID  |                    Description                                                      |                                                    
+| --  | -----------                                                                         |                                                                          
+| LL1 | With the alcohol sensor the system shall be able to detect the alcohol              |      
+| LL2 | The results taken from the sensor shall be able to display on the 16x4 type LCD     |
+| LL3 | The buzzer connected to the microcontroller shall ring when the alcohol is detected | 
+| LL4 | The GPS & GSM module shall track the vechile when connected with the microcontroller|
+
+## Advantages
+* The main advantage of this system is the low cost implementation.
+* Easy to detect the alcoholic person while driving.
+* Helps to prevent accidents.
+
