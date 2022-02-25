@@ -9,10 +9,10 @@
 
 ## 4W's and 1H
 
-When  - It can be used when police officers check the person who is driving had consumed alcohol or not.
-Where - It used in the checking panels/booth of police control in the roads to prevent accidents.
-Who   - Peoples,Police officers.
-What  - Use to detect the alcohol consumption and display the results.
+When  - It can be used when police officers check the person who is driving had consumed alcohol or not
+Where - It used in the checking panels/booth of police control in the roads to prevent accidents
+Who   - Peoples,Police officers
+What  - Use to detect the alcohol consumption and display the results
 
 ## REQUIREMENTS
 ## High Level Requirements
