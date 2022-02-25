@@ -8,6 +8,7 @@
 ![Swot analysis](https://user-images.githubusercontent.com/98879965/155756179-980d91c1-c239-427b-88b8-43f9af710740.png)
 
 ## 4W's and 1H
+
 When  - It can be used when police officers check the person who is driving had consumed alcohol or not.
 Where - It used in the checking panels/booth of police control in the roads to prevent accidents.
 Who   - Peoples,Police officers.
