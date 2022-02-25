@@ -7,7 +7,9 @@
 ## COMPONENTS
 ### The MQ-3 sensor/Alcohol sensor
       Used to detect alcohol level. The sensor detects the alcohol consumption by the smell of the breath. The sensor is an analog as well as a digital sensor which on its   analog pin outputs the analog voltage proportional to the alcohol level. 
-                         ![image](https://user-images.githubusercontent.com/98879965/155783606-b1c43426-0142-4bd5-ae24-f98049e8a2d3.png)
+ 
+![image](https://user-images.githubusercontent.com/98879965/155783606-b1c43426-0142-4bd5-ae24-f98049e8a2d3.png)
+ 
 ### Power Supply 
      The circuit needs a 5V regulated DC for its operation. An 18V battery can be used as the primary source of power.
      
@@ -19,7 +21,9 @@
     
 ### Buzzer
     To alarm the status of the presence of alcohol is done through buzzer. 
-                     ![image](https://user-images.githubusercontent.com/98879965/155784626-a9957d94-b17a-4baa-83c4-943f9f6fd95f.png)
+    
+![image](https://user-images.githubusercontent.com/98879965/155784626-a9957d94-b17a-4baa-83c4-943f9f6fd95f.png)
+
                    
 ### Relay
     Relay is used for interfacing and control various appliances, its operating voltage and current is5V, 10A. It is controlled from a microcontroller (Arduino) directly
