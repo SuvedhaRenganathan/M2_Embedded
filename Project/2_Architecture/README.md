@@ -26,8 +26,7 @@
 
                    
 ### Relay
-    Relay is used for interfacing and control various appliances, its operating voltage and current is5V, 10A. It is controlled from a microcontroller (Arduino) directly
-with 3.3V or 5V logic signals.
+    Relay is used for interfacing and control various appliances, its operating voltage and current is5V, 10A. It is controlled from a microcontroller (Arduino) directly with 3.3V or 5V logic signals.
 
 ### DC MOTOR
     The DC motor converts direct current electrical energy into mechanical energy. Change current produces magnetic energy which in turn produces rotation. In the project when the alcohol is sensed the DC motor starts running showing the engine is ON.
