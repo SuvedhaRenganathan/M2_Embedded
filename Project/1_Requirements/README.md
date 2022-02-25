@@ -17,12 +17,13 @@
 
 ## REQUIREMENTS
 ## High Level Requirements
-| ID  |                    Description                                                      |
-| --  | -----------                                                                         |
-| HL1 | The system shall be able to detect the alcohol consumption by using the sensor      |
-| HL2 | There shall be a LCD display to present with the results                            |  
-| HL3 | Buzzer shall ring if there is a detection of alcohol                                |
-| HL4 | A GPS & GSM module shall be connected to detect the vehicle and to find the location|
+| ID  |                    Description                                                                                  |
+| --  | -----------                                                                                                     |
+| HL1 | The system shall be able to detect the alcohol consumption by using the sensor                                  |
+| HL2 | There shall be a LCD display to present with the results                                                        |  
+| HL3 | Buzzer shall ring if there is a detection of alcohol                                                            |
+| HL4 | A motor shall be attached so if alcohol is detected the motor says the engine is on and give alert to the police|
+| HL5 | A GPS & GSM module shall be connected to detect the vehicle and to find the location                            |
 
 ## Low Level Requirements 
 | ID  |                    Description                                                      |                                                    
