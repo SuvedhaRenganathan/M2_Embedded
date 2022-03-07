@@ -1,40 +1,46 @@
-# ALCOHOL DETECTION SYSTEM
+# 1 AUTOMATIC RAILWAY GATE CONTROL SYSTEM
 
-## INTRODUCTION
-     Now a days, many accidents are happening because of the alcohol consumption.To overcome such accidents which is one of the most significant problems in near future this      system implemented aims at reducing  road accidents due to drunken and drive by detecting the alcohol by the alcohol sensor from the person driving. After the detection of alcohol it displays the result in LCD and an buzzer/led glows to denote the dangerous consumption of alcohol.All these are connected with a microcontroller by this way we can reduce the accidents occured due to alcohol consumption.
+## 1.1 INTRODUCTION
+     Now a days, many accidents are happening in the railway tracks.To overcome such accidents which is one of the most significant method is implemented by automatic railway gate control using arduino with automatically open and closes the gate by tracking the train which aims at reducing the accidents due to this automation in the railway industry is an important need as we are stepping into the advanced era and to reduce the risk of accidents due to human induced errors it is very important that we let these tasks be handled by these smart machines. 
+     
+## 1.2 STATE OF ART
+* The main goal of  the project is to prevent accidents occuring in the railway tracks
+* This can be implemented in real time system
+* To track or detect the movement of the train 
+* To use automatic system for the control of railway gate 
+* To reduce the manual work and instead use the machine process
+
+## 1.3 4W's and 1H
+* When  - It can be used when people work at late night to open the railway gate
+* Where - It used in the railway track gate to prevent accidents
+* Who   - Peoples,Railwaygate keeper,Gate man
+* What  - Use to detect the moving train using sensors
+
+* How   -It can detect the train and automatically open or closes the railway gate
   
-## SWOT Analysis
+## 2 SWOT ANALYSIS
 
-![Swot analysis](https://user-images.githubusercontent.com/98879965/155756179-980d91c1-c239-427b-88b8-43f9af710740.png)
+![image](https://user-images.githubusercontent.com/98879965/157074965-baf1239c-4f99-4687-9c5a-c2050d606497.png)
 
-## 4W's and 1H
-     1)When  - It can be used when police officers check the person who is driving had consumed alcohol or not.
-     2)Where - It used in the checking panels/booth of police control in the roads to prevent accidents.
-     3)Who   - Peoples,Police officers.
-     4)What  - Use to detect the alcohol consumption and display the results.
 
-     1)How   -It can detect the alcohol consumption with a display of result and rings a buzzer as a alert.
-
-## REQUIREMENTS
-## High Level Requirements
+## 3 REQUIREMENTS
+## 3.1 High Level Requirements
 | ID  |                    Description                                                                                  |
 | --  | -----------                                                                                                     |
-| HL1 | The system shall be able to detect the alcohol consumption by using the sensor                                  |
-| HL2 | There shall be a LCD display to present with the results                                                        |  
-| HL3 | Buzzer shall ring if there is a detection of alcohol                                                            |
-| HL4 | A motor shall be attached so if alcohol is detected the motor says the engine is on and give alert to the police|
-| HL5 | A GPS & GSM module shall be connected to detect the vehicle and to find the location                            |
+| HL1 | The system shall be able to detect the train                                                                    |
+| HL2 | It shall automatically open or close the railway gate                                                           |  
+| HL3 | Buzzer shall ring if there is detection of the train                                                            |
 
-## Low Level Requirements 
+## 3.2 Low Level Requirements 
 | ID  |                    Description                                                      |                                                    
 | --  | -----------                                                                         |                                                                          
-| LL1 | With the alcohol sensor the system shall be able to detect the alcohol              |      
-| LL2 | The results taken from the sensor shall be able to display on the 16x4 type LCD     |
-| LL3 | The buzzer connected to the microcontroller shall ring when the alcohol is detected | 
-| LL4 | The GPS & GSM module shall track the vechile when connected with the microcontroller|
+| LL1 | With the ultrasonic sensor the system shall be able to detect the train             |      
+| LL2 | After the detection the railway gate open and close based the detection of train    |
+| LL3 | The buzzer connected to the arduino shall ring when the train is detected           | 
 
-## Advantages
-* The main advantage of this system is the low cost implementation.
-* Easy to detect the alcoholic person while driving.
-* Helps to prevent accidents.
 
+## 4 ADVANTAGES
+* The main advantage of this system is the low cost implementation
+* Easy to detect the moving train 
+* Helps to prevent accidents
+* Reduces human efforts in monotonous works
