@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#line 1 "C:\\Users\\Krithick\\AppData\\Local\\Temp\\.arduinoIDE-unsaved202228-22956-1g0566.h2aoc\\sketch_mar8b\\sketch_mar8b.ino"
 #include <LiquidCrystal.h>                  // includes the LiquidCrystal Library
 #include <Servo.h>                          //includes the Servo library
 
@@ -13,11 +12,7 @@ Servo motorservo1;                              //create servo object to control
 Servo motorservo2;                              //create servo object to control a servo
 int position1 = 0;                              //variable to store the servo position
 
-#line 14 "C:\\Users\\Krithick\\AppData\\Local\\Temp\\.arduinoIDE-unsaved202228-22956-1g0566.h2aoc\\sketch_mar8b\\sketch_mar8b.ino"
-void setup();
-#line 37 "C:\\Users\\Krithick\\AppData\\Local\\Temp\\.arduinoIDE-unsaved202228-22956-1g0566.h2aoc\\sketch_mar8b\\sketch_mar8b.ino"
-void loop();
-#line 14 "C:\\Users\\Krithick\\AppData\\Local\\Temp\\.arduinoIDE-unsaved202228-22956-1g0566.h2aoc\\sketch_mar8b\\sketch_mar8b.ino"
+
 void setup() {
   lcd.begin(16, 2);                        // Initializes the interface to the LCD screen, and specifies the dimensions (width and height) of the display
   pinMode(trigpin1, OUTPUT);
