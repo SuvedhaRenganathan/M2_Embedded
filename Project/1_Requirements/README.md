@@ -47,3 +47,9 @@
 * Easy to detect the moving train 
 * Helps to prevent accidents
 * Reduces human efforts in monotonous works
+
+## 5.1 FUTURE SCOPE
+
+* Though this prototype is simple to build and highly reliable but there are some obstacles too. Rather than a train if an animal or other object is placed in front of the sensor the alarm will and the gate will be closed which is not desirable at all.There are also a scope of alerting the nearest railway station about arrival and departure of the train.
+
+* The problems indicated above can be overcome by adding some extra modules. Like adding the GSM module for future scope. After adding this module, upon arrival and departure of train, the GSM module will send an SMS to registered phone number for acknowledgement and safety. Also adding a pair of pressure sensor increases the chance of fault triggering of gate as well as alarm. After adding the pressure sensor, the Arduino closes the gate after receiving both signal from IR sensor as well as pressure sensor.
