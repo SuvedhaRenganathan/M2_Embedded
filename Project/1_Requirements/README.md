@@ -4,7 +4,7 @@
      Now a days, many accidents are happening in the railway tracks.To overcome such accidents which is one of the most significant method is implemented by automatic railway gate control using arduino with automatically open and closes the gate by tracking the train which aims at reducing the accidents due to this automation in the railway industry is an important need as we are stepping into the advanced era and to reduce the risk of accidents due to human induced errors it is very important that we let these tasks be handled by these smart machines. 
      
 ## 1.1.2 STATE OF ART
-* The main goal of  the project is to prevent accidents occuring in the railway tracks
+* The main goal of  the project is to prevent accidents occurring in the railway tracks
 * This can be implemented in real time system
 * To track or detect the movement of the train using the sensors
 * To use automatic system for the control of railway gate 
